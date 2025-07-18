@@ -1,4 +1,4 @@
-#Olá! Sou o Caio Vinicius 👋
+Olá! Sou o Caio Vinicius 👋
 
 - 🖥️ Trabalho com desenvolvimento Back-End
 - 👨‍🎓 Bacharelado em ciêcia da computação em andamento
