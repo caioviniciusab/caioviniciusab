@@ -7,7 +7,7 @@ Olá! Sou o Caio Vinicius 👋
 
 Habilidades técnicas:
   
-<img align="center" alt="Caio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Caio-Python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <div>
 
 <h3> Contato: </h3>
