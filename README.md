@@ -14,6 +14,11 @@ Habilidades técnicas:
   <a href="mailto:bezerracaio615@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
   <a href="https://www.linkedin.com/in/caio-vinicius-araujo-bezerra/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
   <br>
-  
- ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioviniciusab&layout=compact)
+
+  <div>
+
+  ##
+    
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioviniciusab&layout=compact&show_icons=true&theme=dark"/>
+  </div>
+  <br>
