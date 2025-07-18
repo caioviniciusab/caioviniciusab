@@ -12,8 +12,7 @@ Habilidades técnicas:
 
 Contato:
 <div>
-  <a href="https:/www.linkedin.com/in/caio-vinicius-araujo-bezerra-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<div>
+  <a href="https:/www.linkedin.com/in/caio-vinicius-araujo-bezerra/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
   
  ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioviniciusab&layout=compact)
