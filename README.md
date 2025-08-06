@@ -2,12 +2,13 @@
 
 - 🖥️ Trabalho com desenvolvimento Back-End
 - 👨‍🎓 Bacharelado em ciência da computação em andamento
-- 🎓 Estudando Python
+- 🎓 Atualmente estou estudando Java
 
 
 <h3> Tecnologias: </h3>
-  
-<img align="center" alt="Caio-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div style="display: inline_block">
+  <img align="center" alt="Caio-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Caio-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <div>
 
 <h3> Contato: </h3>
