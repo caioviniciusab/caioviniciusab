@@ -8,7 +8,7 @@
 <h3> Tecnologias: </h3>
 <div style="display: inline_block">
   <img align="center" alt="Caio-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Caio-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Caio-Java" height="55" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <div>
 
 <h3> Contato: </h3>
