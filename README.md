@@ -2,7 +2,7 @@
 
 - 🖥️ Trabalho com desenvolvimento Back-End
 - 👨‍🎓 Bacharelado em ciência da computação em andamento
-- 🎓 Atualmente estou estudando Java
+- 🎓 Trabalhando com java
 
 
 <h3> Tecnologias: </h3>
