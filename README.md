@@ -21,7 +21,6 @@
 
   ##
   
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioviniciusab&layout=compact&show_icons=true&theme=dark"/>
   </div>
   <br>
 
