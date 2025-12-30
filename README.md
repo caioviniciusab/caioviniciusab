@@ -1,8 +1,8 @@
 <h3> Olá! Sou o Caio Vinicius 👋 </h3>
 
-- 🖥️ Trabalho com desenvolvimento Back-End
+- 🖥️ Desenvolvimento Back-End
 - 👨‍🎓 Bacharelado em ciência da computação em andamento
-- 🎓 Trabalhando com java
+- 🎓 Estudando java
 
 
 <h3> Tecnologias: </h3>
